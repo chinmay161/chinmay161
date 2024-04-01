@@ -9,7 +9,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Projects
-- Linux File Permissions Audit Tool
+- <a href="https://github.com/chinmay161/Linux-File-Permissions-Audit-Tool">Linux File Permissions Audit Tool</a>
 <!-- ## Tools
 
 ### Network
