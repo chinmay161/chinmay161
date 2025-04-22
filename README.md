@@ -10,6 +10,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/chinmay161/Linux-File-Permissions-Audit-Tool">Linux File Permissions Audit Tool</a>
+- <a href="https://github.com/chinmay161/PhishVault">Phishing Detection Tool</a>
 <!-- ## Tools
 
 ### Network
